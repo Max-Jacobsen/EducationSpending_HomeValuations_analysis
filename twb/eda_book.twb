@@ -188,7 +188,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run>Average Inflation Adjusted Education Spending Per State (2000-2016)</run>
+            <run>Average Inflation Adjusted Education Spending (2000-2016)</run>
           </formatted-text>
         </title>
         <caption>
@@ -238,7 +238,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run>Average Inflation Adjusted Home Valuation Per State (2000-2016)</run>
+            <run>Average Inflation Adjusted Home Valuation (2000-2016)</run>
           </formatted-text>
         </title>
         <caption>
